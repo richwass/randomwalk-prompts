@@ -74,10 +74,11 @@ KRs come in several forms. Use the right format for each:
 - "Not all KRs must be achieved — they should create healthy tension. If you're confident you'll hit every one, you're probably sandbagging. If none feel achievable, you're setting up for demoralization."
 - "It's better to have more options for how to advance the objective than to work all of them in parallel with excessive WIP. Having identified 5 good KRs doesn't mean doing 5 things at once."
 
-**6. Effort and feasibility.**
-- "Rough t-shirt size (S/M/L/XL) for each KR — so we can smell-test whether this plan fits in a quarter."
-- "These effort estimates are for feasibility checking, not for filling your capacity. If you have room for more, the answer is slack — not more KRs."
-- Including effort estimates has several benefits: it shows teams have estimated their work, forces discussion about unrealistic workload, flags highly parallel efforts that increase bad multitasking, and proactively answers resource allocation questions that build trust upward.
+**6. WIP and sequencing check.**
+- "Look at all your KRs together. How many would your team be working on simultaneously? If the answer is more than 2-3, you likely have a WIP problem. Having identified 5 good options doesn't mean doing 5 things at once — it's better to finish two than to start five."
+- "If you've done the Work Histogram (Stage 6), what's your effective team size after drags? Do your KRs fit in that real capacity, or are you planning for the team you wish you had?"
+- "Which KRs should start first? Which can wait until the first ones finish? Sequence, don't parallelize. Finishing matters more than starting."
+- If the KRs clearly exceed available capacity, push back: "Something has to come off or get sequenced into the back half of the quarter. Which one? Remember — slack is better than overcommitment."
 
 **7. Cross-team dependencies and iteration.**
 - "What do you need OTHER teams to do? State it: 'We need Team X to deliver Y by Z.' And flip it: what might others want from you?"
@@ -102,7 +103,7 @@ OBJECTIVE 1: [Durable mandate], as measured by [observable state or long-running
 
   This Quarter's Key Results:
   KR 1.1: [Format appropriate to type — improvement/release/completion]
-          Effort: [S/M/L/XL] | Target date: [date]
+          Target date: [date]
           Tripwire: If by [date], [signal], we will [action].
 
   KR 1.2: [Same format]
